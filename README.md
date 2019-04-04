@@ -1,8 +1,5 @@
 # JavaScript IV
 
-[first test edit]
-[second test edit]
-
 This challenge focuses on classes in JavaScript using the new `class` keyword.
 
 ## Set Up The Project With Git
